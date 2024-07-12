@@ -1,6 +1,26 @@
-# Hello I'm Maria Andrade 👋
+# Bem-vindo(a) ao meu repositório Git!
 
-### Hello, my name is Deise Maria and I am a student of Systems Analysis and Development with a focus on back-end using the Java language. However, I am always in search of new knowledge and challenges.
+## Sobre Mim
+
+Olá! Eu sou **Deise Maria**, desenvolvedora Java Júnior apaixonada por tecnologia e inovação. Graduada em Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+
+## Habilidades
+
+### Linguagens de Programação:
+- **Java**
+
+### Frameworks e Tecnologias:
+- **Spring Boot**
+
+### Bancos de Dados:
+- **PostgreSQL**
+
+## Contato
+
+## Vamos Conectar!
+
+Sinta-se à vontade para explorar meus projetos, contribuir com sugestões e melhorias, ou simplesmente entrar em contato para trocar ideias. Adoro colaborar com outros desenvolvedores e aprender coisas novas todos os dias
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/of.maripaz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deise-andrade-228028232/)
