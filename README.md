@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Eu sou **Deise Maria**, desenvolvedora Java Júnior apaixonada por tecnologia e inovação. Graduada em Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Olá! Eu sou **Deise Maria**, desenvolvedora Java Júnior apaixonada por tecnologia e inovação. Graduanda em Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 ## Habilidades
 
