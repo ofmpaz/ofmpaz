@@ -14,7 +14,7 @@ No meu canal, compartilho conteúdo voltado para iniciantes em Java, com tutoria
 ### 📘 GitBook - Guia de Java para Iniciantes
 Estou criando um GitBook para complementar os vídeos do canal, oferecendo uma documentação organizada sobre os principais conceitos de Java.
 
-➡️ [Acesse o GitBook](https://app.gitbook.com/o/ClB0Tat0BlOqoW9CwQ4F/s/aRh54VKw1BXIiWCSDH14/java/javainiciante/aula-2-estrutura-basica-de-um-programa-em-java)
+➡️ [Acesse o GitBook](https://maria-3.gitbook.io/maria-docs)
 
 ## Habilidades
 
